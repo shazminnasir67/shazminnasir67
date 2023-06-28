@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @shazminnasir67
 - 👀 I’m interested in UI/UX design
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 shazminnasir67@gmail.com
 
 <!---
 shazminnasir67/shazminnasir67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
