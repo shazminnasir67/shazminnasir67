@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shazminnasir67
-- 👀 I’m interested in UI/UX design
+- 👀 I’m interested in Big Data Analytics
 - 🌱 I’m currently learning Data Science
 - 📫 shazminnasir67@gmail.com
 
