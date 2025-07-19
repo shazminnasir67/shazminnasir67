@@ -97,7 +97,7 @@ def solve_real_world_problems():
 ## 📫 Contact
 
 - LinkedIn: [https://www.linkedin.com/in/shazmin-nasir/](https://www.linkedin.com/in/shazmin-nasir/)
-- Email: [your-email@example.com](shazminnasir481@gmail.com)
+- Email: [shazminnasir481@gmail.com](shazminnasir481@gmail.com)
 
 ```bash
 # Try copying this command
