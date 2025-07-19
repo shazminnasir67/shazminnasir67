@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00BFFF&center=true&vCenter=true&width=1000&lines=Without+data%2C+you%27re+just+another+person+with+an+opinion.;–+W.+Edwards+Deming)
 
 
-🎓 **3rd Year Data Science Student at COMSATS University**
+🎓 **Final Year Data Science Student at COMSATS University**
 
 I'm passionate about solving real-world problems using data-driven methods. I enjoy working with machine learning models, large datasets, and AI tools that enable automation and smart decision-making. I'm continuously learning and building projects in the fields of Deep Learning, Computer Vision, and Big Data Engineering.
 
